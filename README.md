@@ -1,6 +1,5 @@
 # Hi, I'm Ziad 👋
-Front-End Developer 💻 | Lifelong Learner 🌱
-Building responsive websites and learning something new every day ✨
+Front-End Developer 💻 | Lifelong Learner 🌱 | Building responsive websites ✨
 
 ## About Me
 - 🎓 Business Information Systems student.
