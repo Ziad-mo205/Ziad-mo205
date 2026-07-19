@@ -8,9 +8,9 @@ Front-End Developer 💻 | Lifelong Learner 🌱 | Building responsive websites 
 - 📈 Always improving through real projects and coding challenges.
 
 ## Languages & Tools
-HTML
-CSS
-JavaScript
-Git
-GitHub
-VS Code
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+- VS Code
