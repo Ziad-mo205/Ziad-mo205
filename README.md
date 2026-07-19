@@ -14,3 +14,15 @@ Front-End Developer 💻 | Lifelong Learner 🌱 | Building responsive websites 
 - Git
 - GitHub
 - VS Code
+
+## Featured Projects
+
+### 🍽️ Recipe Page
+
+A responsive recipe page built with HTML and CSS as part of a Frontend Mentor challenge.
+
+Practiced semantic HTML, modern CSS, and responsive layouts.
+
+[🌐 Live Demo](https://frontend-mentor-recipe-page-psi.vercel.app/)
+
+[📁 Repository](https://github.com/Ziad-mo205/Frontend-Mentor---Recipe-Page)
