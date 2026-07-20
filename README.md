@@ -8,14 +8,11 @@ Front-End Developer 💻 | Lifelong Learner 🌱 | Building responsive websites 
 - 📈 Always improving through real projects and coding challenges.
 
 ## Languages & Tools
-## Languages & Tools
-
-## Languages & Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="50" height="50" style="margin-right:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="50" height="50" style="margin-right:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="50" height="50" style="margin-right:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="50" height="50" style="margin-right:30px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="50" height="50" style="margin-right:30px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="50" height="50" style="margin-right:30px;" />
   <img src="https://cdn.simpleicons.org/github" alt="GitHub" title="GitHub" width="50" height="50" />
 </p>
 
