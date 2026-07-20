@@ -8,12 +8,14 @@ Front-End Developer 💻 | Lifelong Learner 🌱 | Building responsive websites 
 - 📈 Always improving through real projects and coding challenges.
 
 ## Languages & Tools
-- HTML
-- CSS
-- JavaScript
-- Git
-- GitHub
-- VS Code
+## Languages & Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="50" height="50"/>
+</p>
 
 ## Featured Projects
 
