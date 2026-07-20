@@ -4,7 +4,7 @@ Front-End Developer 💻 | Lifelong Learner 🌱 | Building responsive websites 
 ## About Me
 - 🎓 Business Information Systems student.
 - 🌱 Currently learning JavaScript.
-- 🧩 Building responsive and accessible websites.
+- 🧩 Building responsive websites with clean and semantic code.
 - 📈 Always improving through real projects and coding challenges.
 
 ## Languages & Tools
@@ -29,5 +29,5 @@ Practiced semantic HTML, modern CSS, and responsive layouts.
 
 ## Let's Connect
 
-- 💼 LinkedIn: [linkedin.com/in/ziad-mo205](www.linkedin.com/in/ziad-mohamed-9319a8356)
-- 📧 Email: zezomhamid2005@gmail.com
+- 💼 LinkedIn: [Ziad Mohamed](https://www.linkedin.com/in/ziad-mohamed-9319a8356)
+- 📧 Email: <zezomhamid2005@gmail.com>
