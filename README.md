@@ -26,3 +26,8 @@ Practiced semantic HTML, modern CSS, and responsive layouts.
 [🌐 Live Demo](https://frontend-mentor-recipe-page-psi.vercel.app/)
 
 [📁 Repository](https://github.com/Ziad-mo205/Frontend-Mentor---Recipe-Page)
+
+## Connect With Me
+
+- 💼 LinkedIn: [linkedin.com/in/ziad-mo205](www.linkedin.com/in/ziad-mohamed-9319a8356)
+- 📧 Email: zezomhamid2005@gmail.com
