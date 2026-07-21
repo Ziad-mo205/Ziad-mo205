@@ -33,7 +33,7 @@ A responsive recipe page built with HTML and CSS, focusing on semantic HTML and 
 
 A responsive social profile card built with HTML and CSS, featuring Flexbox layouts, hover effects, and responsive design.
 
-- 🌐 **Live Demo:** *(https://social-links-profile-ziad.vercel.app/)*
+- 🌐 **Live Demo:** *https://social-links-profile-ziad.vercel.app/*
 - 📁 **Repository:** https://github.com/Ziad-mo205/Frontend-Mentor---Social-Links-Profile
 
 ## Let's Connect
