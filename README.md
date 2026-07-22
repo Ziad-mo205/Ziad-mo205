@@ -36,6 +36,15 @@ A responsive social profile card built with HTML and CSS, featuring Flexbox layo
 - 🌐 **Live Demo:** https://social-links-profile-ziad.vercel.app/
 - 📁 **Repository:** https://github.com/Ziad-mo205/Frontend-Mentor---Social-Links-Profile
 
+---
+
+### 📝 Blog Preview Card
+
+A responsive blog card built with HTML and CSS, featuring modern CSS techniques, hover interactions, and a clean card layout.
+
+- 🌐 **Live Demo:** https://frontend-mentor-blog-preview-card-tau-ruddy.vercel.app/
+- 📁 **Repository:** https://github.com/Ziad-mo205/Frontend-Mentor---Blog-Preview-Card
+
 ## Let's Connect
 
 - 💼 LinkedIn: [Ziad Mohamed](https://www.linkedin.com/in/ziad-mohamed-9319a8356)
